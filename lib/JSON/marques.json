@@ -1,0 +1,170 @@
+[
+  {
+    "marque" : "Felix",
+    "type" : "Croquettes",
+    "poids" : "2,5 kg",
+    "gout" : "Saumon",
+    "prix" : "3.5"
+  },
+  {
+    "marque" : "Felix",
+    "type" : "Croquettes",
+    "poids" : "7,5 kg",
+    "gout" : "Saumon",
+    "prix" : "9"
+  },
+  {
+    "marque" : "Felix",
+    "type" : "Pâté",
+    "poids" : "85 gr",
+    "gout" : "Saumon",
+    "prix" : "1.99"
+  },
+  {
+    "marque" : "Felix",
+    "type" : "Pâté",
+    "poids" : "85 gr",
+    "gout" : "Canard et poulet",
+    "prix" : "1.99"
+  },
+  {
+    "marque" : "Gourmet",
+    "type" : "Croquettes",
+    "poids" : "1,5 kg",
+    "gout" : "Boeuf",
+    "prix" : "3"
+  },
+  {
+    "marque" : "Gourmet",
+    "type" : "Croquettes",
+    "poids" : "1,5 kg",
+    "gout" : "Poulet et légumes",
+    "prix" : "2.5"
+  },
+  {
+    "marque" : "Gourmet",
+    "type" : "Pâté",
+    "poids" : "100 gr",
+    "gout" : "Boeuf et veau",
+    "prix" : "2.75"
+  },
+  {
+    "marque" : "Gourmet",
+    "type" : "Pâté",
+    "poids" : "100 gr",
+    "gout" : "canard",
+    "prix" : "2.99"
+  },
+  {
+    "marque" : "Pedigree",
+    "type" : "Croquettes",
+    "poids" : "4,5 kg",
+    "gout" : "Poulet et légumes",
+    "prix" : "5.99"
+  },
+  {
+    "marque" : "Pedigree",
+    "type" : "Croquettes",
+    "poids" : "4,5 kg",
+    "gout" : "Boeuf et légumes",
+    "prix" : "6.49"
+  },
+  {
+    "marque" : "Pedigree",
+    "type" : "Pâté",
+    "poids" : "90 gr",
+    "gout" : "saumon et haricots verts",
+    "prix" : "2.99"
+  },
+  {
+    "marque" : "Pedigree",
+    "type" : "Pâté",
+    "poids" : "90 gr",
+    "gout" : "agneau et riz",
+    "prix" : "2.99"
+  },
+  {
+    "marque" : "Purina",
+    "type" : "Croquettes",
+    "poids" : "7 kg",
+    "gout" : "Crevettes et légumes",
+    "prix" : "32.99"
+  },
+  {
+    "marque" : "Purina",
+    "type" : "Croquettes",
+    "poids" : "7 kg",
+    "gout" : "Boeuf",
+    "prix" : "32.99"
+  },
+  {
+    "marque" : "Purina",
+    "type" : "Pâté",
+    "poids" : "90 gr",
+    "gout" : "poulet grillé",
+    "prix" : "3.2"
+  },
+  {
+    "marque" : "Purina",
+    "type" : "Pâté",
+    "poids" : "90 gr",
+    "gout" : "Boeuf et carottes",
+    "prix" : "3.2"
+  },
+  {
+    "marque" : "Royal Canin",
+    "type" : "Croquettes",
+    "poids" : "12 kg",
+    "gout" : "Boeuf",
+    "prix" : "50.99"
+  },
+  {
+    "marque" : "Royal Canin",
+    "type" : "Croquettes",
+    "poids" : "12 kg",
+    "gout" : "Poulet",
+    "prix" : "42.99"
+  },
+  {
+    "marque" : "Royal Canin",
+    "type" : "Pâté",
+    "poids" : "75 gr",
+    "gout" : "saumon et légumes verts",
+    "prix" : "3.5"
+  },
+  {
+    "marque" : "Royal Canin",
+    "type" : "Pâté",
+    "poids" : "80 gr",
+    "gout" : "poulet",
+    "prix" : "3.2"
+  },
+  {
+    "marque" : "Vitakraft",
+    "type" : "Bâtonnets",
+    "poids" : "175 gr",
+    "gout" : "céréales et miel",
+    "prix" : "2.5"
+  },
+  {
+    "marque" : "Vitakraft",
+    "type" : "Croquettes",
+    "poids" : "2.5 kg",
+    "gout" : "Mix de céréales et graines (cobayes)",
+    "prix" : "2.99"
+  },
+  {
+    "marque" : "Whiskas",
+    "type" : "Croquettes",
+    "poids" : "2.5 kg",
+    "gout" : "Poulet",
+    "prix" : "4.99"
+  },
+  {
+    "marque" : "Whiskas",
+    "type" : "Croquettes",
+    "poids" : "2.5 kg",
+    "gout" : "Boeuf",
+    "prix" : "5.99"
+  }
+]

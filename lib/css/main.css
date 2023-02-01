@@ -1,0 +1,24 @@
+body {
+    background: rgb(63,251,233);
+    background: radial-gradient(circle, rgba(63,251,233,1) 0%, rgba(12,51,147,1) 100%);
+    font-family: Georgia,Arial, Tahoma;
+}
+
+.navbar{
+    padding: 1%;
+    font-family: fantasy,"Times New Roman", Tahoma;
+    <!--
+    fantasy supported by edge
+    unsupported by firefox
+    -->
+}
+
+
+ul li a {
+    color: cadetblue;
+    text-decoration: none;
+    font-size: larger;
+    border: solid cadetblue 1px;
+    border-radius: 25%;
+    padding: 4px;
+}

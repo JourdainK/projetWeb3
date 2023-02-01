@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<members xmlns:xsi="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="members.xsd">
+    <member>
+        <login>Pitivier</login>
+        <password>plop</password>
+        <email>pitivier@gmail.com</email>
+        <age>45</age>
+        <adresse>Rue à l'ail</adresse>
+        <pays>France</pays>
+        <telephone>0478/55.66.33</telephone>
+        <animaux>
+            <animal>Chat</animal>
+        </animaux>
+        <marques>
+            <marque>felix</marque>
+            <marque>pedigree</marque>
+            <marque>purina</marque>
+        </marques>
+        <commentaire>Des coupons svp.</commentaire>
+        <contact>Email</contact>
+        <services>
+            <service>Coupons de vos marques préférées</service>
+            <service>Compétitions félines</service>
+            <service>Concours</service>
+        </services>
+        <newsletter>Oui</newsletter>
+    </member>
+
+
+    <member>
+        <login>George</login>
+        <password>Carlin</password>
+        <email>Carlin@gmail.com</email>
+        <age>72</age>
+        <adresse>New Jersey Street</adresse>
+        <pays>Croatie</pays>
+        <telephone>0478/55.66.33</telephone>
+        <animaux>
+            <animal>Chat</animal>
+        </animaux>
+        <marques>
+            <marque>felix</marque>
+            <marque>gourmet</marque>
+            <marque>pedigree</marque>
+        </marques>
+        <commentaire>oh boy oh boy, me cat does the figure eight between me legs, oh boy oh boy</commentaire>
+        <photo>uploads/20211023_163331.jpg</photo>
+        <contact>Téléphone</contact>
+        <services>
+            <service>Adoptions des refuges de votre pays</service>
+            <service>Concours</service>
+        </services>
+        <newsletter>Oui</newsletter>
+    </member>
+    <member>
+        <login>Krilin</login>
+        <password>Dbz</password>
+        <email>krilin@gmail.com</email>
+        <age>45</age>
+        <adresse>rue overThere 10</adresse>
+        <pays>Paysbas</pays>
+        <telephone>065/23.23.23</telephone>
+        <animaux>
+            <animal>Chat</animal>
+        </animaux>
+        <marques>
+            <marque>gourmet</marque>
+            <marque>pedigree</marque>
+            <marque>purina</marque>
+            <marque>whiskas</marque>
+        </marques>
+        <photo>uploads/pexels-wojciech-kumpicki-2071873.jpg</photo>
+        <contact>Email</contact>
+        <services>
+            <service>Compétitions félines</service>
+        </services>
+    </member>
+    <member>
+        <login>Songoku</login>
+        <password>pwd1234</password>
+        <email>songoku@gmail.com</email>
+        <age>210</age>
+        <pays>Allemagne</pays>
+        <animaux>
+            <animal>Autre</animal>
+        </animaux>
+        <marques>
+            <marque>vitak</marque>
+        </marques>
+        <photo>uploads/pexels-egor-kamelev-927496.jpg</photo>
+    </member>
+    <member>
+        <login>Picolo</login>
+        <password>password</password>
+        <email>picolo@gmail.com</email>
+        <age>189</age>
+        <adresse>Namek 10</adresse>
+        <pays>Espagne</pays>
+        <telephone>0478/88.66.25</telephone>
+        <animaux>
+            <animal>Autre</animal>
+        </animaux>
+        <marques>
+            <marque>vitak</marque>
+        </marques>
+        <photo>uploads/pexels-юлия-здобнова-10310536.jpg</photo>
+        <contact>Courrier (LaPoste)</contact>
+        <services>
+            <service>Adoptions des refuges de votre pays</service>
+            <service>Concours</service>
+        </services>
+        <newsletter>Non</newsletter>
+    </member>
+    <member>
+        <login>Blum</login>
+        <password>pwd</password>
+        <email>blum@gmail.com</email>
+        <age>67</age>
+        <adresse>over there 10</adresse>
+        <pays>France</pays>
+        <telephone>065/66.33.55</telephone>
+        <animaux>
+            <animal>Chien</animal>
+        </animaux>
+        <photo>uploads/pexels-dominika-roseclay-2023384.jpg</photo>
+        <contact>Téléphone</contact>
+        <services>
+            <service>Compétitions canines</service>
+        </services>
+        <newsletter>Oui</newsletter>
+    </member>
+    <member>
+        <login>pol</login>
+        <password>plop</password>
+        <email>pol@gmail.com</email>
+        <age>34</age>
+        <adresse>nowhere street</adresse>
+        <pays>Pologne</pays>
+        <telephone>0477/22.22.22</telephone>
+        <animaux>
+            <animal>Autre</animal>
+        </animaux>
+        <marques>
+            <marque>vitak</marque>
+            <marque>whiskas</marque>
+        </marques>
+        <photo>uploads/pexels-pixabay-62289.jpg</photo>
+        <newsletter>Non</newsletter>
+    </member>
+    <member>
+        <login>Karl</login>
+        <password>pwd</password>
+        <email>karl@gmail.com</email>
+        <age>999</age>
+        <adresse>nowhere</adresse>
+        <pays>Luxembourg</pays>
+        <telephone>065/33.55.44</telephone>
+        <animaux>
+            <animal>Chat</animal>
+        </animaux>
+        <photo>uploads/pexels-pixabay-416160.jpg</photo>
+    </member>
+    <member>
+        <login>Tassin</login>
+        <password>septieme</password>
+        <email>septieme@gmail.com</email>
+        <age>87</age>
+        <pays>Allemagne</pays>
+        <photo>uploads/pexels-charles-1851164.jpg</photo>
+        <contact>Téléphone</contact>
+        <services>
+            <service>Compétitions canines</service>
+        </services>
+        <newsletter>Oui</newsletter>
+    </member>
+    <member>
+        <login>Flo</login>
+        <password>flo</password>
+        <email>flo@gmail.com</email>
+        <pays>Allemagne</pays>
+    </member>
+<member><login>Fisherman</login><password>fish</password><email>fish@gmail.com</email><age>33</age><adresse>fishpond 99</adresse><pays>Belgique</pays><animaux><animal>Autre</animal></animaux><marques><marque>royalC</marque><marque>vitakraft</marque></marques><photo>uploads/pexels-fox-213399.jpg</photo><contact>Email</contact><newsletter>Non</newsletter></member></members>
